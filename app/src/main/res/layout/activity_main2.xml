@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="bstar128.example.hansung.userdialog.MainActivity">
+    tools:context="bstar128.example.hansung.userdialog.Main2Activity">
 
     <TextView
         android:id="@+id/text_name"
